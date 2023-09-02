@@ -94,53 +94,51 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "003",
-          "name": "Floodgate",
-          "status": "Start"
-        },
-        {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-          "status": "partial-success"
-        },
-        {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "success"
+          "name": "groundfall",
+          "status": "start"
         }
       ],
       "pilots": [
         {
-          "callsign": "BEARHOG",
-          "alias": 'Jeremiah Beck',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///Toor//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "BONGO_FIVE"
+          "callsign": "CHARLEMAGNE",
+          "alias": 'Eddie Wu',
+          "code": "COMMANDING OFFICER",
+          "corpro": "SSC",
+          "frame": "",
+          "mech": "BASTION"
         },
         {
-          "callsign": "NOITA",
-          "alias": "Niklas Gornastajevskiy",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///Hycean/6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "MAAHINEN_V2"
+          "callsign": "MAULER",
+          "alias": 'Roy Kaul',
+          "code": "NONCOMMISSIONED OFFICER (EXECUTIVE)",
+          "corpro": "SSC",
+          "frame": "",
+          "mech": "BERSERKER"
         },
         {
-          "callsign": "STRELOK",
-          "alias": "Andreus Trechtchiov",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///Ushoryagrad//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "HA",
-          "frame": "Genghis MK 1 WorldKiller",
-          "mech": "AZYR"
+          "callsign": "OLDMAN",
+          "alias": 'Balsam Singh',
+          "code": "MEDICAL OFFICER",
+          "corpro": "SSC",
+          "frame": "",
+          "mech": "BARRICADE"
         },
         {
-          "callsign": "VALKYRIE",
-          "alias": "Kyrie Moulinos",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///Valhalla-II//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "EINHERJAR"
+          "callsign": "SMILE",
+          "alias": 'Emma Broadstreet',
+          "code": "SECURITY OFFICER",
+          "corpro": "SSC",
+          "frame": "",
+          "mech": "ASSAULT"
+        },
+        {
+          "callsign": "LIFER",
+          "alias": 'Anne Laurent',
+          "code": "SECURITY OFFICER, NHP TECH",
+          "corpro": "SSC",
+          "frame": "",
+          "mech": "HIVE"
         },
       ],
       "header": {
@@ -149,10 +147,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Union Navy",
-        "headerSubtitle": "Auxiliaries",
-        "subheaderTitle": "First Respose Team",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "Landmark Colonial",
+        "headerSubtitle": "",
+        "subheaderTitle": "Crisis Response Team",
+        "subheaderSubtitle": "Contingency White",
       },
       "options":{
         "eventsMarkdownPerMission": true
