@@ -1,6 +1,6 @@
 
 Gender: She / Her
 
-Background: Vaknar Extraction Enforcer
+Background: Mecernary Enforcer
 
-Homeworld: Hycean
+Homeworld: Toor
