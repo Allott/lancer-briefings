@@ -96,7 +96,7 @@ export default {
         {
           "slug": "003",
           "name": "Floodgate",
-          "status": "Start"
+          "status": "start"
         },
         {
           "slug": "002",
@@ -114,9 +114,9 @@ export default {
           "callsign": "BEARHOG",
           "alias": 'Jeremiah Beck',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///Toor//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "BONGO_FIVE"
+          "corpro": "HORUS",
+          "frame": "Pegasus",
+          "mech": "RASBERRY_THURSDAY"
         },
         {
           "callsign": "NOITA",
@@ -130,17 +130,17 @@ export default {
           "callsign": "STRELOK",
           "alias": "Andreus Trechtchiov",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///Ushoryagrad//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "HA",
-          "frame": "Genghis MK 1 WorldKiller",
-          "mech": "AZYR"
+          "corpro": "ISP-N",
+          "frame": "Caliban",
+          "mech": "OKHOTNIK"
         },
         {
           "callsign": "VALKYRIE",
           "alias": "Kyrie Moulinos",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///Valhalla-II//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "EINHERJAR"
+          "code": "[[TBG]]///Hercynia//23452fs-412rf-12df-asd341-98fa25kljhfa902",
+          "corpro": "HA",
+          "frame": "Enkidu",
+          "mech": "AUFHEBEN"
         },
       ],
       "header": {

@@ -7,3 +7,4 @@ A still-unidentified force brought total ruin to Midgarde when Ky was little mor
 
 ## Quotes
 "I want my mech to be covered in children"
+"Is ketchup supposed to be spicy"
