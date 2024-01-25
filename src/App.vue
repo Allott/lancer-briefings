@@ -94,6 +94,21 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "start"
+        },
+        {
+          "slug": "004B",
+          "name": "Rallying Cry",
+          "status": "partial-success"
+        },
+        {
+          "slug": "004A",
+          "name": "Last Castle",
+          "status": "success"
+        },
+        {
           "slug": "003",
           "name": "Floodgate",
           "status": "success"
@@ -122,25 +137,25 @@ export default {
           "callsign": "NOITA",
           "alias": "Niklas Gornastajevskiy",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///Hycean/6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "MAAHINEN_V2"
+          "corpro": "SSC",
+          "frame": "Swallowtail RV",
+          "mech": "HIISI"
         },
         {
           "callsign": "STRELOK",
           "alias": "Andreus Trechtchiov",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///Ushoryagrad//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "ISP-N",
-          "frame": "Caliban",
-          "mech": "OKHOTNIK"
+          "corpro": "HA",
+          "frame": "Genghis MK I",
+          "mech": "DRAKON"
         },
         {
           "callsign": "VALKYRIE",
-          "alias": "Kyrie Moulinos",
+          "alias": "Hope Moulinos",
           "code": "[[TBG]]///Hercynia//23452fs-412rf-12df-asd341-98fa25kljhfa902",
           "corpro": "HA",
           "frame": "Enkidu",
-          "mech": "AUFHEBEN"
+          "mech": "BEOWULF"
         },
       ],
       "header": {
